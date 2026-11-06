@@ -1,4 +1,4 @@
-<img width="623" height="816" alt="ccc" src="https://github.com/user-attachments/assets/d6c87c0f-8ba9-4f76-9d0c-a59663fc2192" />
+
 # Maison Christoffel — Chef's Menu
 name :Itumeleng Ndlovu 
 student number: st10515918
@@ -214,6 +214,8 @@ No real authentication — the login screen doesn't validate credentials against
 Images are remote URLs (Unsplash), not bundled local assets, so the app needs an internet connection to display dish photos. 
 
 <img width="636" height="899" alt="123y" src="https://github.com/user-attachments/assets/4df26533-6d7a-4bfb-97bd-49ab26494e1c" />
+<img width="623" height="816" alt="ccc" src="https://github.com/user-attachments/assets/d6c87c0f-8ba9-4f76-9d0c-a59663fc2192" />
+<img width="623" height="816" alt="ccc" src="https://github.com/user-attachments/assets/d6c87c0f-8ba9-4f76-9d0c-a59663fc2192" />
 <img width="563" height="904" alt="123i" src="https://github.com/user-attachments/assets/d4f7350c-ba65-4ad2-a047-4673208f3fc6" />
 <img width="644" height="920" alt="123" src="https://github.com/user-attachments/assets/4269e3ef-0737-4736-b7d4-9d0dbcb97888" />
 <img width="601" height="900" alt="123e" src="https://github.com/user-attachments/assets/d4732c1c-d251-4823-813a-200d9a0d6685" />
